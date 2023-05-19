@@ -38,48 +38,24 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ### PROCEDURE:
 
 
+### step-1
+Open the roboanalyzer software.
+
+### step-2
+Select the robot and the degrees of freedom.
+
+### step-3
+Change the values with the link length wherever necessary.
+
+### step-4
+Give the input model for inverse kinematics.
+
+### 3R PLANNAR:
+ ![image](https://github.com/swemurali/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94165336/76e9a1f9-16ae-4b94-8598-d2a6ed9fe5b8)
+ 
+ ### 3R ARTICULATED ROBOT:
+![image](https://github.com/swemurali/Inverse-kinematic-modeling-using-robo-analyzer-/assets/94165336/99dee724-8b98-4061-a8f6-c667e9013870)
 
 
-
-
-
-
-### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
+### RESULTS : 
+Thus, the inverse kinematics for a 3R and 3Articulated robot using roboanalyzer is analysed for link cordinates and joint angles is plotted.
